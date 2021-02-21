@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jersey-service/src/main/java"/>
+	<classpathentry kind="src" path="jersey-service/src/test/java"/>
+	<classpathentry kind="src" path="scnd_test/jersey-service/src/main/java"/>
+	<classpathentry kind="src" path="scnd_test/jersey-service/src/test/java"/>
+	<classpathentry kind="output" path="jersey-service/target/classes"/>
+</classpath>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<node name = "1"/>
+	<node name = "2"/>
+	<node name = "3"/>
+	<node name = "4"/>
+	<node name = "5"/>
+	<node name = "6"/>
+	
+	<nodelink name = "1">
+		<link to = "2"></link>
+		<link to = "5"></link>
+	</nodelink>
+	<nodelink name = "2">
+		<link to = "3"></link>
+		<link to = "4"></link>
+	</nodelink>
+	<nodelink name = "5">
+		<link to = "6"></link>
+	</nodelink>
+</class>
